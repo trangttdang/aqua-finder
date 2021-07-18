@@ -1,0 +1,18 @@
+.info{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+}
+
+.infoItem{
+    flex: 1;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 0px 21px -9px rgb(65, 149, 206);
+-webkit-box-shadow: 0px 0px 21px -9px rgb(65, 149, 206);
+-moz-box-shadow: 0px 0px 21px -9px rgb(65, 149, 206);
+background-color: white;
+    
+}
