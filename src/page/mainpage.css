@@ -1,4 +1,9 @@
 .mainpage{
     flex: 4;
-    background-color: #edf7fc;
+    background-color: #B9E2F5;
+    height: 100%;
+}
+
+.contamtable{
+    margin: 0 30px;
 }

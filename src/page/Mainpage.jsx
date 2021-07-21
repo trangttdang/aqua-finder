@@ -9,7 +9,7 @@ function Mainpage() {
         <div className="mainpage">
             <Info />
             <Info />
-            <ContamTable />
+            <div className="contamtable"><ContamTable /></div>
             
         </div>
     )

@@ -7,10 +7,10 @@
 
 
 .logo {
-  font-weight: bold;
-  font-size: 30px;
-  color: black;
-  cursor: pointer;
+  width: 150px;
+}
+.img_logo {
+  text-align: center;
 }
 
 .sidebarSearch {
@@ -24,4 +24,12 @@
 .sidebarResult{
   color: black;
   margin: 10px;
+}
+
+
+*{
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
 }

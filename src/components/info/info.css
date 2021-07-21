@@ -7,8 +7,8 @@
 .infoItem{
     flex: 1;
     padding: 30px;
-    margin: 20px;
-    border-radius: 10px;
+    margin: 30px;
+    border-radius: 4px;
     cursor: pointer;
     box-shadow: 0px 0px 21px -9px rgb(65, 149, 206);
 -webkit-box-shadow: 0px 0px 21px -9px rgb(65, 149, 206);
